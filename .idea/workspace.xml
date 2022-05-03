@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="11c83d19-c1e2-4302-8d0d-f22654c78f54" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="13" />
-          <entry key="php" value="3485" />
+          <entry key="php" value="3494" />
           <entry key="scss" value="10" />
         </counts>
       </usages-collector>
@@ -54,7 +53,7 @@
         <counts>
           <entry key="Blade" value="1894" />
           <entry key="JavaScript" value="13" />
-          <entry key="PHP" value="1591" />
+          <entry key="PHP" value="1600" />
           <entry key="SCSS" value="10" />
         </counts>
       </usages-collector>
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SessionsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+            <state relative-caret-position="380">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -479,12 +478,12 @@
       <option name="presentableId" value="Default" />
       <updated>1650739252087</updated>
       <workItem from="1650739254133" duration="3980000" />
-      <workItem from="1650963416478" duration="12258000" />
+      <workItem from="1650963416478" duration="12410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19110000" />
+    <option name="totallyTimeSpent" value="19262000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -746,8 +745,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SessionsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        <state relative-caret-position="380">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>

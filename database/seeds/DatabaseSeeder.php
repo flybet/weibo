@@ -18,6 +18,7 @@ class DatabaseSeeder extends Seeder
         $user = User::find(1);
         $user->name= 'hadson';
         $user->email='hadson@hadson.com';
+        $user->password=bcrypt('123456');
         $user->is_admin =true;
         $user->save();
     }
